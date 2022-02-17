@@ -1,0 +1,12 @@
+{
+  "name": "algojs",
+  "version": "1.0.0",
+  "description": "Algorithmic style",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "author": "Nicola Solazzo",
+  "license": "ISC"
+}
